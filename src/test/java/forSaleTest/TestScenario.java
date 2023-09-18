@@ -1,4 +1,4 @@
-package SwagLabsTest;
+package forSaleTest;
 
 
 import Pages.LandingPage;

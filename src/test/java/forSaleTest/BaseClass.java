@@ -1,4 +1,4 @@
-package SwagLabsTest;
+package forSaleTest;
 
 import UI.UiActions;
 import io.appium.java_client.android.AndroidDriver;
